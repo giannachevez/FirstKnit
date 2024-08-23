@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Gianna Chevez"
 output: 
   html_document:
     number_sections: true
@@ -14,10 +14,10 @@ date: "`r Sys.Date()`"
 Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
 
 ## A short history of you.  
-Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
-  
+Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question. 
 ### my answer     
-  
+ I attended High School at William J. Pete Knight High School. I recently graduated in the summer of 2024. Between english and math I perform stronger in english. Ever since primary school, I have struggled more with math than english. The subject I perform best in would be english. English is a subject that comes to me more naturally and in the past I have tutored others in english. 
+    
 
      
 
@@ -26,16 +26,14 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+The computer I own and operate on is a Macbook Pro. On a scale from one to ten, I operate a computer at a level 4. I am not too advanced but I know the basics. My internet connection from where I reside is quite strong. There is rarely any problems and when a problem does occur it is short lived.   
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
-   
- 
+  I prefer to be called by my first name by both instructors and classmates. I personally however don't mind if others want to call me something else, whatever is easiest suffices with me. 
 
 
 
@@ -44,8 +42,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
-   
+The life achievements I am currently striving for are taking steps into becoming an attorney. A college subject I think would be in great interest to me would be any political science class. I am trying to attain a JD to become an attorney. 
  
 
 
@@ -55,7 +52,7 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
+I have visited one foreign country in Central America. The country in question was El Salvador. I am not a member of the military.   
    
   
 
@@ -68,8 +65,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  
-   
+  I am taking statistis because it is a required course for me to complete in order to transfer. I was also told it would be more challenging than Math 115 and I wanted to test my abilities. I did know that Math 115 satisfies only the general education requirement. Before taking the course I did my research which is why I made the choice to take Math 116 instead of Math 115. The grade I need to attain in order to not upset my future plans would be an A. I am striving to become a strong student and earning an A in the corse would show mastery. 
  
 
 
